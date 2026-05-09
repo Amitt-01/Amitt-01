@@ -11,24 +11,24 @@
   <img src="https://komarev.com/ghpvc/?username=Amitt-01&label=Profile%20views&color=7c3aed&style=flat" alt="Profile Views" />
 </p>
 
-### 👨‍💻 About Me
+### About Me
 Motivated and detail-oriented CSE student (Expected 2026) with a deep-thinking approach. I am passionate about leveraging my skills in **Android development, web technologies, and AI integration** to build innovative and user-centric solutions. 
 
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at Greater Noida College.
-- 💡 Exploring **Hardware/Sensor Integration, MediaPipe, and LLMs**.
-- 🔐 Certified in **Cybersecurity Fundamentals**.
-- 🌐 Check out my live work: **[amitt-m.vercel.app](https://amitt-m.vercel.app/)**
-- 📫 Reach out to me: **[amitt08407@gmail.com](mailto:amitt08407@gmail.com)**
+-  Pursuing **B.Tech in Computer Science and Engineering** at Greater Noida College.
+-  Exploring **Hardware/Sensor Integration, MediaPipe, and LLMs**.
+-  Certified in **Cybersecurity Fundamentals**.
+-  Check out my live work: **[amitt-m.vercel.app](https://amitt-m.vercel.app/)**
+-  Reach out to me: **[amitt08407@gmail.com](mailto:amitt08407@gmail.com)**
 
-### 🚀 Featured Projects
-- 🚗 **Auto Driver Car:** A sensor-based car featuring a wireless charging system, charging station, and auto-driver capabilities.
-- 📱 **TRUEID (Android App):** A secure app for accessing identity and public services, enabling users to check certificate details and service info independently.
-- 🌐 **TrueId Website:** A unified web platform providing application guidance and quick access to public services.
-- 🤖 **Offline AI Assistant:** A powerful offline assistant driven by LLMs and Voice AI that understands speech, thinks smartly, and replies in real-time.
+### Featured Projects
+-  **Auto Driver Car:** A sensor-based car featuring a wireless charging system, charging station, and auto-driver capabilities.
+-  **TRUEID (Android App):** A secure app for accessing identity and public services, enabling users to check certificate details and service info independently.
+-  **TrueId Website:** A unified web platform providing application guidance and quick access to public services.
+-  **Offline AI Assistant:** A powerful offline assistant driven by LLMs and Voice AI that understands speech, thinks smartly, and replies in real-time.
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 **Languages & Core Tech:**
 <p align="left">
@@ -57,13 +57,13 @@ Motivated and detail-oriented CSE student (Expected 2026) with a deep-thinking a
 
 ---
 
-### 📜 Certifications
+### Certifications
 - 🛡️ **Introduction to Cybersecurity (Cisco):** Offered by NIIT Foundation through the Cisco Networking Academy program.
 - 💻 **Cyber Security Practical Workshop:** Hands-on workshop hosted by JKSD Infotech Pvt. Ltd. at Greater Noida College.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amitt-01&show_icons=true&theme=tokyonight&hide_border=true" alt="Amit's GitHub Stats" />
@@ -75,7 +75,7 @@ Motivated and detail-oriented CSE student (Expected 2026) with a deep-thinking a
 
 ---
 
-### 🤝 Connect with me
+### Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/amit-kumar-9427082b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://amitt-m.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>

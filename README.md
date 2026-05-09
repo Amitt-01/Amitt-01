@@ -69,10 +69,6 @@ Motivated and detail-oriented CSE student (Expected 2026) with a deep-thinking a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitt-01&theme=tokyonight&hide_border=true" alt="Amit's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitt-01&theme=tokyonight&hide_border=true" alt="Amit's GitHub Streak" />
-</p>
-
 ---
 
 ### Connect with me

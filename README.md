@@ -58,8 +58,8 @@ Motivated and detail-oriented CSE student (Expected 2026) with a deep-thinking a
 ---
 
 ### Certifications
-- 🛡️ **Introduction to Cybersecurity (Cisco):** Offered by NIIT Foundation through the Cisco Networking Academy program.
-- 💻 **Cyber Security Practical Workshop:** Hands-on workshop hosted by JKSD Infotech Pvt. Ltd. at Greater Noida College.
+-  **Introduction to Cybersecurity (Cisco):** Offered by NIIT Foundation through the Cisco Networking Academy program.
+-  **Cyber Security Practical Workshop:** Hands-on workshop hosted by JKSD Infotech Pvt. Ltd. at Greater Noida College.
 
 ---
 

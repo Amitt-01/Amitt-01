@@ -70,8 +70,6 @@ Motivated and detail-oriented CSE student (Expected 2026) with a deep-thinking a
 </p>
 
 ---
-
-### Connect with me
 ### Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/amit-kumar-9427082b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

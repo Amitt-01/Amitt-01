@@ -17,7 +17,6 @@ Motivated and detail-oriented CSE student (Expected 2026) with a deep-thinking a
 -  Pursuing **B.Tech in Computer Science and Engineering** at Greater Noida College.
 -  Exploring **Hardware/Sensor Integration, MediaPipe, and LLMs**.
 -  Certified in **Cybersecurity Fundamentals**.
--  Check out my live work: **[amitt-m.vercel.app](https://amitt-m.vercel.app/)**
 -  Reach out to me: **[amitt08407@gmail.com](mailto:amitt08407@gmail.com)**
 
 ### Featured Projects

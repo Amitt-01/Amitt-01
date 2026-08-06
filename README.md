@@ -73,5 +73,5 @@ Motivated and detail-oriented CSE student (Expected 2026) with a deep-thinking a
 <p align="left">
   <a href="https://www.linkedin.com/in/amit-kumar-9427082b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/_Amit_Maury" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://amitt-m.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
+  <a href="https://amitt-m.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" alt="Website" /></a>
 </p>
